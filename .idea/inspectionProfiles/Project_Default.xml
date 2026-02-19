@@ -1,0 +1,58 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E225" />
+          <option value="E302" />
+          <option value="E305" />
+          <option value="E402" />
+          <option value="W292" />
+          <option value="E265" />
+          <option value="E231" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N813" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="speech_reccognition" />
+          <option value="speech_Reccognition" />
+          <option value="speech_recognition" />
+          <option value="speech_recognizer" />
+          <option value="pyttsx3" />
+          <option value="pyjokes" />
+          <option value="selenium_web.*" />
+          <option value="___DJANGO___.mynew1.mynew1.urls.mynew1" />
+          <option value="___DJANGO___.mynew1.LOGIN_FORM.LOGIN_FORM.urls.LOGIN_FORM" />
+          <option value="Restaurant.Restaurant_Web_Page.Restautant_Web_Page.urls.Base_App" />
+          <option value="Restaurant.Restaurant_Web_Page.Restautant_Web_Page.urls.HomeView" />
+          <option value="Restaurant.Restaurant_Web_Page.Restautant_Web_Page.urls.BookTableView" />
+          <option value="Restaurant.Restaurant_Web_Page.Restautant_Web_Page.urls.MenuView" />
+          <option value="Restaurant.Restaurant_Web_Page.Restautant_Web_Page.urls.AboutView" />
+          <option value="FirstProject.views" />
+          <option value="mynew1.*" />
+          <option value="mysite.views" />
+          <option value="data.WEBSITE.ODWebpage.ODWebpage.urls.ODApp" />
+          <option value="data.WEBSITE.ODWebpage.ODWebpage.urls.HomeView" />
+          <option value="data.WEBSITE.ODWebpage.ODWebpage.urls.Login" />
+          <option value="data.WEBSITE.ODWebpage.ODWebpage.urls.SignUp" />
+          <option value="data.WEBSITE.ODWebpage.ODWebpage.urls.CreateAccount" />
+          <option value="data.WEBSITE.ODWebpage.ODWebpage.urls.Loginview" />
+          <option value="helper.goggle" />
+          <option value="pyPDF2" />
+          <option value="app.*" />
+          <option value="data.WEBSITE.ODWebpage.ODApp.views.User" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
